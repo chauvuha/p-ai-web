@@ -33,19 +33,19 @@ function App() {
           <div className="check-box-holder">
             <h5>Pick your labels:</h5>
             <Checkbox color="success" shape="curve" variant="thick">
-              athletic</Checkbox>
+              Athletic</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
-              social</Checkbox>
+              Social</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
-              academics</Checkbox>
+              Academics</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
               location</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
-              affordability</Checkbox>
+              Affordability</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
-              prestige</Checkbox>
+              Prestige</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
-              environment</Checkbox>
+              Environment</Checkbox>
           </div>
           <div className="college-names-holder">
             <h5>Enter your college names:</h5>
