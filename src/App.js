@@ -39,7 +39,7 @@ function App() {
             <Checkbox color="success" shape="curve" variant="thick">
               Academics</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
-              location</Checkbox>
+              Location</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
               Affordability</Checkbox>
             <Checkbox color="success" shape="curve" variant="thick">
